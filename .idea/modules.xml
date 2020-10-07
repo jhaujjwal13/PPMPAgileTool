@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PPMP-Project.iml" filepath="$PROJECT_DIR$/.idea/PPMP-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppmp-tool/ppmp-tool.iml" filepath="$PROJECT_DIR$/ppmp-tool/ppmp-tool.iml" />
+    </modules>
+  </component>
+</project>
